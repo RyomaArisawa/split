@@ -1,40 +1,40 @@
 {
   "project_info": {
-    "project_number": "374916135045",
-    "project_id": "split-131c8",
-    "storage_bucket": "split-131c8.appspot.com"
+    "project_number": "320816596053",
+    "project_id": "split-5356b",
+    "storage_bucket": "split-5356b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:374916135045:android:8b458a3d8db0ea23de11ec",
+        "mobilesdk_app_id": "1:320816596053:android:a013e828e20a49ce8f80dc",
         "android_client_info": {
-          "package_name": "com.split.split"
+          "package_name": "com.nasudev.split"
         }
       },
       "oauth_client": [
         {
-          "client_id": "374916135045-5q8bl2dkmqc6fiib8dmmctk1ordag9ke.apps.googleusercontent.com",
+          "client_id": "320816596053-s2t8h2vb98p0qtm45lu2gka6u7dndfj3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyANEX9LL60fGiZBwbmYOmwhQ4zLMgXKYHM"
+          "current_key": "AIzaSyCg3CAlzzTLRFCWXESPumzlWDPnAJEJ0Z8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "374916135045-5q8bl2dkmqc6fiib8dmmctk1ordag9ke.apps.googleusercontent.com",
+              "client_id": "320816596053-s2t8h2vb98p0qtm45lu2gka6u7dndfj3.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "374916135045-skqp9ef63jbhr4uvohuvbco1p49f2ir0.apps.googleusercontent.com",
+              "client_id": "320816596053-rhdgiafentel5r36bis8qfnlvbgn6eta.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.split.split"
+                "bundle_id": "com.nasudev.split"
               }
             }
           ]
