@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyANEX9LL60fGiZBwbmYOmwhQ4zLMgXKYHM',
-    appId: '1:374916135045:android:8b458a3d8db0ea23de11ec',
-    messagingSenderId: '374916135045',
-    projectId: 'split-131c8',
-    storageBucket: 'split-131c8.appspot.com',
+    apiKey: 'AIzaSyCg3CAlzzTLRFCWXESPumzlWDPnAJEJ0Z8',
+    appId: '1:320816596053:android:a013e828e20a49ce8f80dc',
+    messagingSenderId: '320816596053',
+    projectId: 'split-5356b',
+    storageBucket: 'split-5356b.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCTE_FXiXwljNDiYjAW-EHz0Xign_h6SDQ',
-    appId: '1:374916135045:ios:9712b6f0b7db6f9ade11ec',
-    messagingSenderId: '374916135045',
-    projectId: 'split-131c8',
-    storageBucket: 'split-131c8.appspot.com',
-    iosClientId: '374916135045-skqp9ef63jbhr4uvohuvbco1p49f2ir0.apps.googleusercontent.com',
-    iosBundleId: 'com.split.split',
+    apiKey: 'AIzaSyAmxkEpFhe5kc3XMkIMhvVqZRtb2tr1fwM',
+    appId: '1:320816596053:ios:6a5b0b95494616618f80dc',
+    messagingSenderId: '320816596053',
+    projectId: 'split-5356b',
+    storageBucket: 'split-5356b.appspot.com',
+    iosClientId: '320816596053-rhdgiafentel5r36bis8qfnlvbgn6eta.apps.googleusercontent.com',
+    iosBundleId: 'com.nasudev.split',
   );
 }
